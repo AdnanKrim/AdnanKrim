@@ -1,6 +1,6 @@
 <h1 align="center"> I'm Md. Adnan Ul Karim</h1>
 <h3 align="center">Backend Developer from Chattogram, Bangladesh</h3>
-<img align-"center" src="https://miro.medium.com/v2/resize:fit:640/1*A3_-0RRhNeputCxIijtJBg.gif" alt="Description of the image" width="500"  title="rege coding" class="image-class">
+<!-- <img align-"center" src="https://miro.medium.com/v2/resize:fit:640/1*A3_-0RRhNeputCxIijtJBg.gif" alt="Description of the image" width="500"  title="rege coding" class="image-class"> -->
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/adnan.karim.7146557/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adnan-karim-backdev) 
